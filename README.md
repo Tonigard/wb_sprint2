@@ -26,3 +26,9 @@
 -------------|-------------|
 |mean_distance|0.36|
 |mean_distance_mat|0.35|
+|accuracy|0.00|
+|f1|0.96|
+|recall|0.97|
+|precision|0.93|
+
+
